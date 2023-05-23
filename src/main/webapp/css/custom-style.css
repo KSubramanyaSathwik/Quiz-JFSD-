@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+
+.custom-heading {
+  text-align: center;
+}
+
+.custom-card {
+  margin: 0 auto;
+  margin-top: 3%;
+  width: 30%;
+  padding: 1%;
+}
+
+.custom-card .btn {
+  width: 100%;
+}
+
+.back {
+  position: fixed;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+}
+
+.bgimg {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
